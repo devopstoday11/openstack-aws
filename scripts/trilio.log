@@ -1,0 +1,676 @@
+2017-12-20 10:20:37,894 Trilio-Vault [140103028741952] INFO  __main__ - available workloads...... [file=trilio_vault.py:25]
+2017-12-20 10:20:37,894 Trilio-Vault [140103028741952] INFO  __main__ - None. [file=trilio_vault.py:26]
+2017-12-20 10:21:16,632 Trilio-Vault [140333441967936] INFO  __main__ - available workloads...... [file=trilio_vault.py:25]
+2017-12-20 10:21:16,632 Trilio-Vault [140333441967936] INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:26]
+2017-12-20 10:22:15,086 Trilio-Vault [139634736817984] INFO  __main__ - available workloads...... [file=trilio_vault.py:25]
+2017-12-20 10:22:15,086 Trilio-Vault [139634736817984] INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:26]
+2017-12-20 10:27:26,780 Trilio-Vault [139676675983168] INFO  __main__ - available workloads...... [file=trilio_vault.py:25]
+2017-12-20 10:27:26,780 Trilio-Vault [139676675983168] INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:26]
+2017-12-20 10:32:12,042 Trilio-Vault [140142958159680] INFO  __main__ - available workloads...... [file=trilio_vault.py:25]
+2017-12-20 10:32:12,042 Trilio-Vault [140142958159680] INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:26]
+2017-12-20 10:40:22,206 Trilio-Vault [140655621355328] INFO  __main__ - available workloads...... [file=trilio_vault.py:25]
+2017-12-20 10:40:22,207 Trilio-Vault [140655621355328] INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:26]
+2017-12-20 10:43:30,417 Trilio-Vault [140291709798208] INFO  __main__ - available workloads...... [file=trilio_vault.py:25]
+2017-12-20 10:43:30,417 Trilio-Vault [140291709798208] INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:26]
+2017-12-20 10:46:43,248 Trilio-Vault [140066371315520] INFO  __main__ - available workloads...... [file=trilio_vault.py:25]
+2017-12-20 10:46:43,248 Trilio-Vault [140066371315520] INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:26]
+2017-12-20 13:32:49,397 Trilio-Vault [139832173172544] INFO  __main__ - available workloads...... [file=trilio_vault.py:27]
+2017-12-20 13:32:49,415 Trilio-Vault [139832173172544] INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:28]
+2017-12-20 13:32:51,702 Trilio-Vault [139832173172544] INFO  __main__ - Selected workload is..vm1. [file=trilio_vault.py:46]
+2017-12-20 13:32:53,601 Trilio-Vault [139832173172544] INFO  __main__ - Needs to be implemented.. :). [file=trilio_vault.py:56]
+2017-12-20 13:33:36,287 Trilio-Vault [140012912195392] INFO  __main__ - available workloads...... [file=trilio_vault.py:27]
+2017-12-20 13:33:36,287 Trilio-Vault [140012912195392] INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:28]
+2017-12-20 13:33:38,337 Trilio-Vault [140012912195392] INFO  __main__ - Selected workload is..vm1. [file=trilio_vault.py:46]
+2017-12-20 13:35:12,267 Trilio-Vault [139707482138432] INFO  __main__ - available workloads...... [file=trilio_vault.py:27]
+2017-12-20 13:35:12,267 Trilio-Vault [139707482138432] INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:28]
+2017-12-20 13:35:14,988 Trilio-Vault [139707482138432] INFO  __main__ - Selected workload is..vm1. [file=trilio_vault.py:46]
+2017-12-20 13:40:49,093 Trilio-Vault [140260495595328] INFO  __main__ - available workloads...... [file=trilio_vault.py:27]
+2017-12-20 13:40:49,093 Trilio-Vault [140260495595328] INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:28]
+2017-12-20 13:40:52,380 Trilio-Vault [140260495595328] INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:46]
+2017-12-20 13:41:33,995 Trilio-Vault [140450957014848] INFO  __main__ - available workloads...... [file=trilio_vault.py:27]
+2017-12-20 13:41:33,995 Trilio-Vault [140450957014848] INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:28]
+2017-12-20 13:41:37,916 Trilio-Vault [140450957014848] INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:46]
+2017-12-20 13:43:18,888 Trilio-Vault [140498505684800] INFO  __main__ - available workloads...... [file=trilio_vault.py:27]
+2017-12-20 13:43:18,888 Trilio-Vault [140498505684800] INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:28]
+2017-12-20 13:43:23,021 Trilio-Vault [140498505684800] INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:46]
+2017-12-20 13:46:32,687 Trilio-Vault [140069208340288] INFO  __main__ - available workloads...... [file=trilio_vault.py:27]
+2017-12-20 13:46:32,687 Trilio-Vault [140069208340288] INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:28]
+2017-12-20 13:46:39,023 Trilio-Vault [140069208340288] INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:46]
+2017-12-20 13:46:48,039 Trilio-Vault [139792401659712] INFO  __main__ - available workloads...... [file=trilio_vault.py:27]
+2017-12-20 13:46:48,039 Trilio-Vault [139792401659712] INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:28]
+2017-12-20 13:46:50,834 Trilio-Vault [139792401659712] INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:46]
+2017-12-20 14:53:06,059 Trilio-Vault [140107139749696] INFO  __main__ - available workloads...... [file=trilio_vault.py:27]
+2017-12-20 14:53:06,071 Trilio-Vault [140107139749696] INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:28]
+2017-12-20 14:53:08,884 Trilio-Vault [140107139749696] INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:46]
+2017-12-20 14:53:19,324 Trilio-Vault [139718763550528] INFO  __main__ - available workloads...... [file=trilio_vault.py:27]
+2017-12-20 14:53:19,324 Trilio-Vault [139718763550528] INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:28]
+2017-12-20 14:53:21,801 Trilio-Vault [139718763550528] INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:46]
+2017-12-20 15:03:17,736 Trilio-Vault [140459376785216] INFO  __main__ - available workloads...... [file=trilio_vault.py:27]
+2017-12-20 15:03:17,736 Trilio-Vault [140459376785216] INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:28]
+2017-12-20 15:03:24,799 Trilio-Vault [140459376785216] INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:46]
+2017-12-20 15:10:39,383 Trilio-Vault [140039458879296] INFO  __main__ - available workloads...... [file=trilio_vault.py:27]
+2017-12-20 15:10:39,384 Trilio-Vault [140039458879296] INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:28]
+2017-12-20 15:10:43,981 Trilio-Vault [140039458879296] INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:46]
+2017-12-20 15:12:02,645 Trilio-Vault [140152345106240] INFO  __main__ - available workloads...... [file=trilio_vault.py:27]
+2017-12-20 15:12:02,645 Trilio-Vault [140152345106240] INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:28]
+2017-12-20 15:12:04,725 Trilio-Vault [140152345106240] INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:46]
+2017-12-20 15:12:48,930 Trilio-Vault [140702755485504] INFO  __main__ - available workloads...... [file=trilio_vault.py:27]
+2017-12-20 15:12:48,930 Trilio-Vault [140702755485504] INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:28]
+2017-12-20 15:12:52,469 Trilio-Vault [140702755485504] INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:46]
+2017-12-20 18:22:35,132 Trilio-Vault [140064460764992] INFO  __main__ - available workloads...... [file=trilio_vault.py:27]
+2017-12-20 18:22:35,150 Trilio-Vault [140064460764992] INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:28]
+2017-12-20 18:22:38,136 Trilio-Vault [140064460764992] INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:41]
+2017-12-22 18:40:29,695 Trilio-Vault [140338813634368]INFO  __main__ - available workloads...... [file=trilio_vault.py:43]
+2017-12-22 18:40:29,709 Trilio-Vault [140338813634368]INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:44]
+2017-12-22 18:40:32,160 Trilio-Vault [140338813634368]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:59]
+2017-12-22 18:41:27,288 Trilio-Vault [140261181032256]INFO  __main__ - available workloads...... [file=trilio_vault.py:43]
+2017-12-22 18:41:27,289 Trilio-Vault [140261181032256]INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:44]
+2017-12-22 18:41:30,795 Trilio-Vault [140261181032256]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:59]
+2017-12-22 19:02:30,214 Trilio-Vault [140603738269504]INFO  __main__ - available workloads...... [file=trilio_vault.py:54]
+2017-12-22 19:02:30,227 Trilio-Vault [140603738269504]INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:55]
+2017-12-22 19:02:32,452 Trilio-Vault [140603738269504]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:70]
+2017-12-22 19:18:04,989 Trilio-Vault [139714035844928]INFO  __main__ - available workloads...... [file=trilio_vault.py:57]
+2017-12-22 19:18:05,002 Trilio-Vault [139714035844928]INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:58]
+2017-12-22 19:18:06,943 Trilio-Vault [139714035844928]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:73]
+2017-12-22 19:27:21,892 Trilio-Vault [140629796607808]INFO  __main__ - available workloads...... [file=trilio_vault.py:60]
+2017-12-22 19:27:21,893 Trilio-Vault [140629796607808]INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:61]
+2017-12-22 19:27:23,738 Trilio-Vault [140629796607808]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:76]
+2017-12-22 19:28:44,585 Trilio-Vault [139909043435328]INFO  __main__ - available workloads...... [file=trilio_vault.py:61]
+2017-12-22 19:28:44,585 Trilio-Vault [139909043435328]INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:62]
+2017-12-22 19:28:46,539 Trilio-Vault [139909043435328]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:77]
+2017-12-22 19:29:54,286 Trilio-Vault [139826936985408]INFO  __main__ - available workloads...... [file=trilio_vault.py:61]
+2017-12-22 19:29:54,287 Trilio-Vault [139826936985408]INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:62]
+2017-12-22 19:29:57,165 Trilio-Vault [139826936985408]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:77]
+2017-12-22 19:42:06,194 Trilio-Vault [139969031378752]INFO  __main__ - available workloads...... [file=trilio_vault.py:61]
+2017-12-22 19:42:06,212 Trilio-Vault [139969031378752]INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:62]
+2017-12-22 19:42:08,440 Trilio-Vault [139969031378752]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:77]
+2017-12-22 19:46:07,115 Trilio-Vault [140004886132544]INFO  __main__ - available workloads...... [file=trilio_vault.py:61]
+2017-12-22 19:46:07,115 Trilio-Vault [140004886132544]INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:62]
+2017-12-22 19:46:12,766 Trilio-Vault [140004886132544]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:77]
+2017-12-22 20:23:39,281 Trilio-Vault [139801335859008]INFO  __main__ - available workloads...... [file=trilio_vault.py:67]
+2017-12-22 20:23:39,295 Trilio-Vault [139801335859008]INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:68]
+2017-12-22 20:23:42,063 Trilio-Vault [139801335859008]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:83]
+2017-12-22 20:54:54,275 Trilio-Vault [140220584273728]INFO  __main__ - available workloads...... [file=trilio_vault.py:81]
+2017-12-22 20:54:54,289 Trilio-Vault [140220584273728]INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:82]
+2017-12-22 20:54:56,917 Trilio-Vault [140220584273728]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:97]
+2017-12-22 20:55:04,615 Trilio-Vault [140220584273728]INFO  botocore.vendored.requests.packages.urllib3.connectionpool - Starting new HTTPS connection (1): ec2.us-west-2.amazonaws.com. [file=connectionpool.py:735]
+2017-12-22 20:55:44,857 Trilio-Vault [139786870245184]INFO  __main__ - available workloads...... [file=trilio_vault.py:81]
+2017-12-22 20:55:44,857 Trilio-Vault [139786870245184]INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:82]
+2017-12-22 20:55:47,260 Trilio-Vault [139786870245184]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:97]
+2017-12-22 20:59:43,234 Trilio-Vault [140554312701760]INFO  __main__ - available workloads...... [file=trilio_vault.py:81]
+2017-12-22 20:59:43,234 Trilio-Vault [140554312701760]INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:82]
+2017-12-22 20:59:45,293 Trilio-Vault [140554312701760]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:97]
+2017-12-22 20:59:56,668 Trilio-Vault [139753489221440]INFO  __main__ - available workloads...... [file=trilio_vault.py:81]
+2017-12-22 20:59:56,668 Trilio-Vault [139753489221440]INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:82]
+2017-12-22 20:59:58,572 Trilio-Vault [139753489221440]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:97]
+2017-12-22 21:02:29,398 Trilio-Vault [140459095934784]INFO  __main__ - available workloads...... [file=trilio_vault.py:82]
+2017-12-22 21:02:29,399 Trilio-Vault [140459095934784]INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:83]
+2017-12-22 21:02:35,957 Trilio-Vault [140459095934784]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:98]
+2017-12-22 21:16:58,485 Trilio-Vault [140517497657152]INFO  modules.workload_parser - working in   workload parser. [file=workload_parser.py:35]
+2017-12-22 21:16:58,486 Trilio-Vault [140517497657152]INFO  __main__ - available workloads...... [file=trilio_vault.py:82]
+2017-12-22 21:16:58,486 Trilio-Vault [140517497657152]INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:83]
+2017-12-22 21:34:47,757 Trilio-Vault [140275899742016]INFO  __main__ - available workloads...... [file=trilio_vault.py:81]
+2017-12-22 21:34:47,758 Trilio-Vault [140275899742016]INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:82]
+2017-12-22 21:34:54,511 Trilio-Vault [140275899742016]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:97]
+2017-12-22 21:35:08,727 Trilio-Vault [140184689973056]INFO  __main__ - available workloads...... [file=trilio_vault.py:81]
+2017-12-22 21:35:08,727 Trilio-Vault [140184689973056]INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:82]
+2017-12-22 21:35:11,350 Trilio-Vault [140184689973056]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:97]
+2017-12-22 21:35:12,576 Trilio-Vault [140184689973056]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:111]
+2017-12-22 21:40:05,958 Trilio-Vault [139832978667328]INFO  __main__ - available workloads...... [file=trilio_vault.py:78]
+2017-12-22 21:40:05,958 Trilio-Vault [139832978667328]INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:79]
+2017-12-22 21:40:08,960 Trilio-Vault [139832978667328]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:94]
+2017-12-22 21:40:10,077 Trilio-Vault [139832978667328]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:108]
+2017-12-22 21:40:13,001 Trilio-Vault [139832978667328]INFO  __main__ - listing available vms                             under given snapshot 
+ 6ead0fd4-1a61-4a5e-a57e-216e9c635bc2. [file=trilio_vault.py:136]
+2017-12-22 21:40:14,203 Trilio-Vault [139832978667328]INFO  modules.image_converter - output image: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_6ead0fd4-1a61-4a5e-a57e-216e9c635bc2/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_1034ba5f-ae8c-44e1-93f8-8cc6f787f4ca_sdb/b84565a9-a79d-4e1d-af9e-00b5e64b8606
+file format: qcow2
+virtual size: 10G (10737418240 bytes)
+disk size: 196K
+cluster_size: 65536
+backing file: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_fce6f027-9b1a-4df4-9d1e-afe17a84bb33/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_8abfd015-fcda-46ac-891f-a16e5dcd88b5_sdb/9f557e8b-d93c-4646-875b-39ef08feb229
+Format specific information:
+    compat: 1.1
+    lazy refcounts: false
+. [file=image_converter.py:82]
+2017-12-22 21:40:14,204 Trilio-Vault [139832978667328]INFO  modules.image_converter - Error..!! . [file=image_converter.py:83]
+2017-12-22 21:40:14,204 Trilio-Vault [139832978667328]INFO  modules.image_converter - raw file already exists, Hence skipping the convertion... [file=image_converter.py:86]
+2017-12-22 21:40:14,257 Trilio-Vault [139832978667328]INFO  modules.image_converter - output image: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_6ead0fd4-1a61-4a5e-a57e-216e9c635bc2/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_d063ce58-d4e6-4b50-b50a-bbf25884dd2f_sda/2aaeecc4-ebbd-4602-bf9a-91dbfb1b46ba
+file format: qcow2
+virtual size: 40G (42949672960 bytes)
+disk size: 832K
+cluster_size: 65536
+backing file: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_fce6f027-9b1a-4df4-9d1e-afe17a84bb33/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_176d1186-ee5c-4246-86b2-5aa65a2a39d7_sda/a4301682-2d58-4bb1-81f8-6562bb25b0ac
+Format specific information:
+    compat: 1.1
+    lazy refcounts: false
+. [file=image_converter.py:82]
+2017-12-22 21:40:14,257 Trilio-Vault [139832978667328]INFO  modules.image_converter - Error..!! . [file=image_converter.py:83]
+2017-12-22 21:40:14,258 Trilio-Vault [139832978667328]INFO  modules.image_converter - raw file already exists, Hence skipping the convertion... [file=image_converter.py:86]
+2017-12-22 21:40:14,258 Trilio-Vault [139832978667328]INFO  modules.image_converter - object copy intialized.... [file=image_converter.py:68]
+2017-12-22 21:41:18,472 Trilio-Vault [140416903300928]INFO  __main__ - available workloads...... [file=trilio_vault.py:78]
+2017-12-22 21:41:18,472 Trilio-Vault [140416903300928]INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:79]
+2017-12-22 21:41:20,634 Trilio-Vault [140416903300928]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:94]
+2017-12-22 21:41:21,506 Trilio-Vault [140416903300928]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:108]
+2017-12-22 21:41:23,453 Trilio-Vault [140416903300928]INFO  __main__ - listing available vms                             under given snapshot 
+ 6ead0fd4-1a61-4a5e-a57e-216e9c635bc2. [file=trilio_vault.py:136]
+2017-12-22 21:41:24,481 Trilio-Vault [140416903300928]INFO  __main__ - selected vm ubuntu-1. [file=trilio_vault.py:148]
+2017-12-22 21:41:24,513 Trilio-Vault [140416903300928]INFO  modules.image_converter - output image: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_6ead0fd4-1a61-4a5e-a57e-216e9c635bc2/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_1034ba5f-ae8c-44e1-93f8-8cc6f787f4ca_sdb/b84565a9-a79d-4e1d-af9e-00b5e64b8606
+file format: qcow2
+virtual size: 10G (10737418240 bytes)
+disk size: 196K
+cluster_size: 65536
+backing file: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_fce6f027-9b1a-4df4-9d1e-afe17a84bb33/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_8abfd015-fcda-46ac-891f-a16e5dcd88b5_sdb/9f557e8b-d93c-4646-875b-39ef08feb229
+Format specific information:
+    compat: 1.1
+    lazy refcounts: false
+. [file=image_converter.py:82]
+2017-12-22 21:41:24,513 Trilio-Vault [140416903300928]INFO  modules.image_converter - Error..!! . [file=image_converter.py:83]
+2017-12-22 21:41:24,513 Trilio-Vault [140416903300928]INFO  modules.image_converter - raw file already exists, Hence skipping the convertion... [file=image_converter.py:86]
+2017-12-22 21:41:24,537 Trilio-Vault [140416903300928]INFO  modules.image_converter - output image: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_6ead0fd4-1a61-4a5e-a57e-216e9c635bc2/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_d063ce58-d4e6-4b50-b50a-bbf25884dd2f_sda/2aaeecc4-ebbd-4602-bf9a-91dbfb1b46ba
+file format: qcow2
+virtual size: 40G (42949672960 bytes)
+disk size: 832K
+cluster_size: 65536
+backing file: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_fce6f027-9b1a-4df4-9d1e-afe17a84bb33/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_176d1186-ee5c-4246-86b2-5aa65a2a39d7_sda/a4301682-2d58-4bb1-81f8-6562bb25b0ac
+Format specific information:
+    compat: 1.1
+    lazy refcounts: false
+. [file=image_converter.py:82]
+2017-12-22 21:41:24,537 Trilio-Vault [140416903300928]INFO  modules.image_converter - Error..!! . [file=image_converter.py:83]
+2017-12-22 21:41:24,538 Trilio-Vault [140416903300928]INFO  modules.image_converter - raw file already exists, Hence skipping the convertion... [file=image_converter.py:86]
+2017-12-22 21:41:24,538 Trilio-Vault [140416903300928]INFO  modules.image_converter - object copy intialized.... [file=image_converter.py:68]
+2017-12-23 12:34:36,187 Trilio-Vault [140704318797632]INFO  __main__ - available workloads...... [file=trilio_vault.py:78]
+2017-12-23 12:34:36,188 Trilio-Vault [140704318797632]INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:79]
+2017-12-23 12:34:40,889 Trilio-Vault [140704318797632]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:95]
+2017-12-23 12:39:47,135 Trilio-Vault [140303517251392]INFO  __main__ - available workloads...... [file=trilio_vault.py:78]
+2017-12-23 12:39:47,135 Trilio-Vault [140303517251392]INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:79]
+2017-12-23 12:39:51,220 Trilio-Vault [140303517251392]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:95]
+2017-12-23 12:39:52,384 Trilio-Vault [140303517251392]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:109]
+2017-12-23 12:40:04,977 Trilio-Vault [140303517251392]INFO  __main__ - listing available vms                             under given snapshot 
+ 6ead0fd4-1a61-4a5e-a57e-216e9c635bc2. [file=trilio_vault.py:137]
+2017-12-23 12:51:06,830 Trilio-Vault [140732599097152]INFO  __main__ - available workloads...... [file=trilio_vault.py:78]
+2017-12-23 12:51:06,830 Trilio-Vault [140732599097152]INFO  __main__ - ['workload_cee088f0-b90a-4147-81b8-ebb9778ce336', 'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:79]
+2017-12-23 12:51:09,177 Trilio-Vault [140732599097152]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:95]
+2017-12-23 12:51:10,967 Trilio-Vault [140732599097152]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:109]
+2017-12-23 23:33:07,517 Trilio-Vault [139776428947264]INFO  __main__ - available workloads...... [file=trilio_vault.py:80]
+2017-12-23 23:33:07,546 Trilio-Vault [139776428947264]INFO  __main__ - [u'workload_cee088f0-b90a-4147-81b8-ebb9778ce336', u'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:81]
+2017-12-23 23:33:15,020 Trilio-Vault [139776428947264]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:96]
+2017-12-23 23:33:16,490 Trilio-Vault [139776428947264]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:111]
+2017-12-23 23:33:20,000 Trilio-Vault [139776428947264]INFO  __main__ - listing available vms under given snapshot 
+ 6ead0fd4-1a61-4a5e-a57e-216e9c635bc2. [file=trilio_vault.py:139]
+2017-12-23 23:33:21,826 Trilio-Vault [139776428947264]INFO  __main__ - selected vm ubuntu-1. [file=trilio_vault.py:152]
+2017-12-23 23:33:22,588 Trilio-Vault [139776428947264]INFO  modules.image_converter - output image: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_6ead0fd4-1a61-4a5e-a57e-216e9c635bc2/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_1034ba5f-ae8c-44e1-93f8-8cc6f787f4ca_sdb/b84565a9-a79d-4e1d-af9e-00b5e64b8606
+file format: qcow2
+virtual size: 10G (10737418240 bytes)
+disk size: 196K
+cluster_size: 65536
+backing file: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_fce6f027-9b1a-4df4-9d1e-afe17a84bb33/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_8abfd015-fcda-46ac-891f-a16e5dcd88b5_sdb/9f557e8b-d93c-4646-875b-39ef08feb229
+Format specific information:
+    compat: 1.1
+    lazy refcounts: false
+. [file=image_converter.py:86]
+2017-12-23 23:33:22,589 Trilio-Vault [139776428947264]INFO  modules.image_converter - Error..!! . [file=image_converter.py:87]
+2017-12-23 23:33:22,589 Trilio-Vault [139776428947264]INFO  modules.image_converter - raw file already exists, Hence skipping the convertion... [file=image_converter.py:90]
+2017-12-23 23:33:22,641 Trilio-Vault [139776428947264]INFO  modules.image_converter - output image: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_6ead0fd4-1a61-4a5e-a57e-216e9c635bc2/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_d063ce58-d4e6-4b50-b50a-bbf25884dd2f_sda/2aaeecc4-ebbd-4602-bf9a-91dbfb1b46ba
+file format: qcow2
+virtual size: 40G (42949672960 bytes)
+disk size: 832K
+cluster_size: 65536
+backing file: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_fce6f027-9b1a-4df4-9d1e-afe17a84bb33/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_176d1186-ee5c-4246-86b2-5aa65a2a39d7_sda/a4301682-2d58-4bb1-81f8-6562bb25b0ac
+Format specific information:
+    compat: 1.1
+    lazy refcounts: false
+. [file=image_converter.py:86]
+2017-12-23 23:33:22,642 Trilio-Vault [139776428947264]INFO  modules.image_converter - Error..!! . [file=image_converter.py:87]
+2017-12-23 23:33:22,642 Trilio-Vault [139776428947264]INFO  modules.image_converter - raw file already exists, Hence skipping the convertion... [file=image_converter.py:90]
+2017-12-23 23:33:22,642 Trilio-Vault [139776428947264]INFO  modules.image_converter - object copy intialized.... [file=image_converter.py:71]
+2017-12-23 23:33:33,589 Trilio-Vault [139776428947264]INFO  modules.image_converter - object /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_6ead0fd4-1a61-4a5e-a57e-216e9c635bc2/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_1034ba5f-ae8c-44e1-93f8-8cc6f787f4ca_sdb/b84565a9-a79d-4e1d-af9e-00b5e64b8606.raw copy Done... [file=image_converter.py:74]
+2017-12-23 23:33:33,590 Trilio-Vault [139776428947264]INFO  modules.image_converter - object copy intialized.... [file=image_converter.py:71]
+2017-12-24 00:53:47,283 Trilio-Vault [139865921615680]INFO  __main__ - available workloads...... [file=trilio_vault.py:81]
+2017-12-24 00:53:47,308 Trilio-Vault [139865921615680]INFO  __main__ - [u'workload_cee088f0-b90a-4147-81b8-ebb9778ce336', u'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:82]
+2017-12-24 00:53:52,708 Trilio-Vault [139865921615680]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:97]
+2017-12-24 00:53:55,178 Trilio-Vault [139865921615680]INFO  modules.image_converter - output image: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_6ead0fd4-1a61-4a5e-a57e-216e9c635bc2/vm_id_56e22431-d49c-41d3-8fa9-7846a9ea1e1b/vm_res_id_a23c1073-6182-442f-986b-036410db0bd1_vda/baa89622-f229-4876-9a0a-b71dea070e85
+file format: qcow2
+virtual size: 40G (42949672960 bytes)
+disk size: 196K
+cluster_size: 65536
+backing file: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_fce6f027-9b1a-4df4-9d1e-afe17a84bb33/vm_id_56e22431-d49c-41d3-8fa9-7846a9ea1e1b/vm_res_id_4bcd7b69-afb2-434c-8746-d38141aaffe1_vda/8cdd4cd2-df7d-46c0-98f7-33df1627cae8
+Format specific information:
+    compat: 1.1
+    lazy refcounts: false
+. [file=image_converter.py:86]
+2017-12-24 00:53:55,179 Trilio-Vault [139865921615680]INFO  modules.image_converter - Error..!! . [file=image_converter.py:87]
+2017-12-24 00:53:55,179 Trilio-Vault [139865921615680]INFO  modules.image_converter - raw file already exists, Hence skipping the convertion... [file=image_converter.py:90]
+2017-12-24 00:53:55,179 Trilio-Vault [139865921615680]INFO  modules.image_converter - object copy intialized.... [file=image_converter.py:71]
+2017-12-24 00:54:09,757 Trilio-Vault [140690015094592]INFO  __main__ - available workloads...... [file=trilio_vault.py:81]
+2017-12-24 00:54:09,760 Trilio-Vault [140690015094592]INFO  __main__ - [u'workload_cee088f0-b90a-4147-81b8-ebb9778ce336', u'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:82]
+2017-12-24 00:54:13,331 Trilio-Vault [140690015094592]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:97]
+2017-12-24 00:54:15,008 Trilio-Vault [140690015094592]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:112]
+2017-12-24 00:54:15,009 Trilio-Vault [140690015094592]INFO  modules.app - expected string but got <type 'unicode'>. [file=app.py:71]
+2017-12-24 00:54:15,010 Trilio-Vault [140690015094592]ERROR __main__ - 'NoneType' object is not iterable. [file=trilio_vault.py:163]
+Traceback (most recent call last):
+  File "/root/temp/trilio/trilio/scripts/trilio_vault.py", line 117, in run
+    for sno, snapshot in enumerate(snapshots, 1):
+TypeError: 'NoneType' object is not iterable
+2017-12-24 00:57:17,366 Trilio-Vault [140295644825408]INFO  __main__ - available workloads...... [file=trilio_vault.py:81]
+2017-12-24 00:57:17,368 Trilio-Vault [140295644825408]INFO  __main__ - [u'workload_cee088f0-b90a-4147-81b8-ebb9778ce336', u'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:82]
+2017-12-24 00:57:19,730 Trilio-Vault [140295644825408]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:97]
+2017-12-24 00:57:22,344 Trilio-Vault [140295644825408]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:112]
+2017-12-24 00:57:22,344 Trilio-Vault [140295644825408]INFO  modules.app - expected dictionary but got <type 'unicode'>. [file=app.py:71]
+2017-12-24 00:57:22,344 Trilio-Vault [140295644825408]ERROR __main__ - 'NoneType' object is not iterable. [file=trilio_vault.py:163]
+Traceback (most recent call last):
+  File "/root/temp/trilio/trilio/scripts/trilio_vault.py", line 117, in run
+    for sno, snapshot in enumerate(snapshots, 1):
+TypeError: 'NoneType' object is not iterable
+2017-12-24 00:58:16,191 Trilio-Vault [139641782032192]INFO  __main__ - available workloads...... [file=trilio_vault.py:81]
+2017-12-24 00:58:16,191 Trilio-Vault [139641782032192]INFO  __main__ - [u'workload_cee088f0-b90a-4147-81b8-ebb9778ce336', u'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:82]
+2017-12-24 00:58:18,614 Trilio-Vault [139641782032192]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:97]
+2017-12-24 00:58:20,556 Trilio-Vault [139641782032192]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:112]
+2017-12-24 00:58:20,651 Trilio-Vault [139641782032192]ERROR __main__ - 'module' object has no attribute 'set_Trace'. [file=trilio_vault.py:163]
+Traceback (most recent call last):
+  File "/root/temp/trilio/trilio/scripts/trilio_vault.py", line 114, in run
+    snapshots = self.app.get_snapshots_from_workload(workload)
+  File "/root/temp/trilio/trilio/modules/app.py", line 68, in get_snapshots_from_workload
+    import pdb;pdb.set_Trace()
+AttributeError: 'module' object has no attribute 'set_Trace'
+2017-12-24 00:58:35,202 Trilio-Vault [139726919313216]INFO  __main__ - available workloads...... [file=trilio_vault.py:81]
+2017-12-24 00:58:35,202 Trilio-Vault [139726919313216]INFO  __main__ - [u'workload_cee088f0-b90a-4147-81b8-ebb9778ce336', u'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:82]
+2017-12-24 00:58:37,318 Trilio-Vault [139726919313216]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:97]
+2017-12-24 00:58:39,484 Trilio-Vault [139726919313216]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:112]
+2017-12-24 00:59:49,456 Trilio-Vault [139652347324224]INFO  __main__ - available workloads...... [file=trilio_vault.py:81]
+2017-12-24 00:59:49,456 Trilio-Vault [139652347324224]INFO  __main__ - [u'workload_cee088f0-b90a-4147-81b8-ebb9778ce336', u'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:82]
+2017-12-24 00:59:52,235 Trilio-Vault [139652347324224]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:97]
+2017-12-24 00:59:54,302 Trilio-Vault [139652347324224]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:112]
+2017-12-24 00:59:57,636 Trilio-Vault [139652347324224]INFO  __main__ - listing available vms under given snapshot 
+ 6ead0fd4-1a61-4a5e-a57e-216e9c635bc2. [file=trilio_vault.py:140]
+2017-12-24 00:59:59,469 Trilio-Vault [139652347324224]INFO  __main__ - selected vm ubuntu-1. [file=trilio_vault.py:153]
+2017-12-24 00:59:59,716 Trilio-Vault [139652347324224]INFO  modules.image_converter - output image: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_6ead0fd4-1a61-4a5e-a57e-216e9c635bc2/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_1034ba5f-ae8c-44e1-93f8-8cc6f787f4ca_sdb/b84565a9-a79d-4e1d-af9e-00b5e64b8606
+file format: qcow2
+virtual size: 10G (10737418240 bytes)
+disk size: 196K
+cluster_size: 65536
+backing file: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_fce6f027-9b1a-4df4-9d1e-afe17a84bb33/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_8abfd015-fcda-46ac-891f-a16e5dcd88b5_sdb/9f557e8b-d93c-4646-875b-39ef08feb229
+Format specific information:
+    compat: 1.1
+    lazy refcounts: false
+. [file=image_converter.py:86]
+2017-12-24 00:59:59,718 Trilio-Vault [139652347324224]INFO  modules.image_converter - Error..!! . [file=image_converter.py:87]
+2017-12-24 00:59:59,718 Trilio-Vault [139652347324224]INFO  modules.image_converter - raw file already exists, Hence skipping the convertion... [file=image_converter.py:90]
+2017-12-24 00:59:59,751 Trilio-Vault [139652347324224]INFO  modules.image_converter - output image: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_6ead0fd4-1a61-4a5e-a57e-216e9c635bc2/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_d063ce58-d4e6-4b50-b50a-bbf25884dd2f_sda/2aaeecc4-ebbd-4602-bf9a-91dbfb1b46ba
+file format: qcow2
+virtual size: 40G (42949672960 bytes)
+disk size: 832K
+cluster_size: 65536
+backing file: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_fce6f027-9b1a-4df4-9d1e-afe17a84bb33/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_176d1186-ee5c-4246-86b2-5aa65a2a39d7_sda/a4301682-2d58-4bb1-81f8-6562bb25b0ac
+Format specific information:
+    compat: 1.1
+    lazy refcounts: false
+. [file=image_converter.py:86]
+2017-12-24 00:59:59,752 Trilio-Vault [139652347324224]INFO  modules.image_converter - Error..!! . [file=image_converter.py:87]
+2017-12-24 00:59:59,752 Trilio-Vault [139652347324224]INFO  modules.image_converter - raw file already exists, Hence skipping the convertion... [file=image_converter.py:90]
+2017-12-24 00:59:59,753 Trilio-Vault [139652347324224]INFO  modules.image_converter - object copy intialized.... [file=image_converter.py:71]
+2017-12-24 01:00:41,017 Trilio-Vault [139946977154880]INFO  __main__ - available workloads...... [file=trilio_vault.py:81]
+2017-12-24 01:00:41,020 Trilio-Vault [139946977154880]INFO  __main__ - [u'workload_cee088f0-b90a-4147-81b8-ebb9778ce336', u'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:82]
+2017-12-24 01:00:44,231 Trilio-Vault [139946977154880]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:97]
+2017-12-24 01:00:45,601 Trilio-Vault [139946977154880]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:112]
+2017-12-24 01:00:48,413 Trilio-Vault [139946977154880]INFO  __main__ - listing available vms under given snapshot 
+ 6ead0fd4-1a61-4a5e-a57e-216e9c635bc2. [file=trilio_vault.py:140]
+2017-12-24 01:00:49,520 Trilio-Vault [139946977154880]INFO  __main__ - selected vm ubuntu-1. [file=trilio_vault.py:153]
+2017-12-24 01:00:49,699 Trilio-Vault [139946977154880]INFO  modules.image_converter - output image: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_6ead0fd4-1a61-4a5e-a57e-216e9c635bc2/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_1034ba5f-ae8c-44e1-93f8-8cc6f787f4ca_sdb/b84565a9-a79d-4e1d-af9e-00b5e64b8606
+file format: qcow2
+virtual size: 10G (10737418240 bytes)
+disk size: 196K
+cluster_size: 65536
+backing file: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_fce6f027-9b1a-4df4-9d1e-afe17a84bb33/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_8abfd015-fcda-46ac-891f-a16e5dcd88b5_sdb/9f557e8b-d93c-4646-875b-39ef08feb229
+Format specific information:
+    compat: 1.1
+    lazy refcounts: false
+. [file=image_converter.py:86]
+2017-12-24 01:00:49,700 Trilio-Vault [139946977154880]INFO  modules.image_converter - Error..!! . [file=image_converter.py:87]
+2017-12-24 01:00:49,700 Trilio-Vault [139946977154880]INFO  modules.image_converter - raw file already exists, Hence skipping the convertion... [file=image_converter.py:90]
+2017-12-24 01:00:49,727 Trilio-Vault [139946977154880]INFO  modules.image_converter - output image: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_6ead0fd4-1a61-4a5e-a57e-216e9c635bc2/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_d063ce58-d4e6-4b50-b50a-bbf25884dd2f_sda/2aaeecc4-ebbd-4602-bf9a-91dbfb1b46ba
+file format: qcow2
+virtual size: 40G (42949672960 bytes)
+disk size: 832K
+cluster_size: 65536
+backing file: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_fce6f027-9b1a-4df4-9d1e-afe17a84bb33/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_176d1186-ee5c-4246-86b2-5aa65a2a39d7_sda/a4301682-2d58-4bb1-81f8-6562bb25b0ac
+Format specific information:
+    compat: 1.1
+    lazy refcounts: false
+. [file=image_converter.py:86]
+2017-12-24 01:00:49,728 Trilio-Vault [139946977154880]INFO  modules.image_converter - Error..!! . [file=image_converter.py:87]
+2017-12-24 01:00:49,729 Trilio-Vault [139946977154880]INFO  modules.image_converter - raw file already exists, Hence skipping the convertion... [file=image_converter.py:90]
+2017-12-24 01:00:49,730 Trilio-Vault [139946977154880]INFO  modules.image_converter - snap shot intilization started.... [file=image_converter.py:36]
+2017-12-24 01:00:52,325 Trilio-Vault [139946977154880]INFO  modules.image_converter - Imported Task Id is: import-snap-fhb917mm. [file=image_converter.py:45]
+2017-12-24 01:01:24,160 Trilio-Vault [139946977154880]INFO  modules.image_converter - Snapshot creation is inprogress .. [file=image_converter.py:64]
+2017-12-24 01:02:57,521 Trilio-Vault [140232487589696]INFO  __main__ - available workloads...... [file=trilio_vault.py:81]
+2017-12-24 01:02:57,524 Trilio-Vault [140232487589696]INFO  __main__ - [u'workload_cee088f0-b90a-4147-81b8-ebb9778ce336', u'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:82]
+2017-12-24 01:03:00,067 Trilio-Vault [140232487589696]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:97]
+2017-12-24 01:03:01,500 Trilio-Vault [140232487589696]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:112]
+2017-12-24 01:03:04,231 Trilio-Vault [140232487589696]INFO  __main__ - listing available vms under given snapshot 
+ 6ead0fd4-1a61-4a5e-a57e-216e9c635bc2. [file=trilio_vault.py:140]
+2017-12-24 01:03:05,598 Trilio-Vault [140232487589696]INFO  __main__ - selected vm ubuntu-1. [file=trilio_vault.py:153]
+2017-12-24 01:03:06,119 Trilio-Vault [140232487589696]INFO  modules.image_converter - output image: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_6ead0fd4-1a61-4a5e-a57e-216e9c635bc2/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_1034ba5f-ae8c-44e1-93f8-8cc6f787f4ca_sdb/b84565a9-a79d-4e1d-af9e-00b5e64b8606
+file format: qcow2
+virtual size: 10G (10737418240 bytes)
+disk size: 196K
+cluster_size: 65536
+backing file: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_fce6f027-9b1a-4df4-9d1e-afe17a84bb33/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_8abfd015-fcda-46ac-891f-a16e5dcd88b5_sdb/9f557e8b-d93c-4646-875b-39ef08feb229
+Format specific information:
+    compat: 1.1
+    lazy refcounts: false
+. [file=image_converter.py:86]
+2017-12-24 01:03:06,120 Trilio-Vault [140232487589696]INFO  modules.image_converter - Error..!! . [file=image_converter.py:87]
+2017-12-24 01:03:06,120 Trilio-Vault [140232487589696]INFO  modules.image_converter - raw file already exists, Hence skipping the convertion... [file=image_converter.py:90]
+2017-12-24 01:03:06,151 Trilio-Vault [140232487589696]INFO  modules.image_converter - output image: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_6ead0fd4-1a61-4a5e-a57e-216e9c635bc2/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_d063ce58-d4e6-4b50-b50a-bbf25884dd2f_sda/2aaeecc4-ebbd-4602-bf9a-91dbfb1b46ba
+file format: qcow2
+virtual size: 40G (42949672960 bytes)
+disk size: 832K
+cluster_size: 65536
+backing file: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_fce6f027-9b1a-4df4-9d1e-afe17a84bb33/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_176d1186-ee5c-4246-86b2-5aa65a2a39d7_sda/a4301682-2d58-4bb1-81f8-6562bb25b0ac
+Format specific information:
+    compat: 1.1
+    lazy refcounts: false
+. [file=image_converter.py:86]
+2017-12-24 01:03:06,152 Trilio-Vault [140232487589696]INFO  modules.image_converter - Error..!! . [file=image_converter.py:87]
+2017-12-24 01:03:06,152 Trilio-Vault [140232487589696]INFO  modules.image_converter - raw file already exists, Hence skipping the convertion... [file=image_converter.py:90]
+2017-12-24 01:03:06,176 Trilio-Vault [140232487589696]INFO  botocore.vendored.requests.packages.urllib3.connectionpool - Starting new HTTPS connection (1): ec2.us-west-2.amazonaws.com. [file=connectionpool.py:735]
+2017-12-24 01:03:07,690 Trilio-Vault [140232487589696]INFO  modules.boto_adapter - AMI created successfully....!!!. [file=boto_adapter.py:42]
+2017-12-24 01:03:07,690 Trilio-Vault [140232487589696]INFO  modules.boto_adapter - AMI ID ***ami-2877db50***. [file=boto_adapter.py:43]
+2017-12-24 01:03:08,022 Trilio-Vault [140232487589696]ERROR __main__ - An error occurred (VpcLimitExceeded) when calling the CreateVpc operation: The maximum number of VPCs has been reached.. [file=trilio_vault.py:163]
+Traceback (most recent call last):
+  File "/root/temp/trilio/trilio/scripts/trilio_vault.py", line 154, in run
+    self._create_vm(vm_dict)
+  File "/root/temp/trilio/trilio/scripts/trilio_vault.py", line 74, in _create_vm
+    self.app.lanuch_instance(ami_id, snap_ids, vm_dict)
+  File "/root/temp/trilio/trilio/modules/app.py", line 151, in lanuch_instance
+    return self.boto_obj.lanuch_instance(ami_id, snap_ids, vm_dict)
+  File "/root/temp/trilio/trilio/modules/boto_adapter.py", line 52, in lanuch_instance
+    subnet_id = self._create_vpc()
+  File "/root/temp/trilio/trilio/modules/boto_adapter.py", line 114, in _create_vpc
+    self.vpc = self.ec2.create_vpc(CidrBlock=vpc_cidr)
+  File "/usr/local/lib/python2.7/dist-packages/boto3/resources/factory.py", line 520, in do_action
+    response = action(self, *args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/boto3/resources/action.py", line 83, in __call__
+    response = getattr(parent.meta.client, operation_name)(**params)
+  File "/usr/local/lib/python2.7/dist-packages/botocore/client.py", line 312, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/botocore/client.py", line 605, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+ClientError: An error occurred (VpcLimitExceeded) when calling the CreateVpc operation: The maximum number of VPCs has been reached.
+2017-12-24 14:50:02,610 Trilio-Vault [140259265165120]INFO  __main__ - available workloads...... [file=trilio_vault.py:81]
+2017-12-24 14:50:02,612 Trilio-Vault [140259265165120]INFO  __main__ - [u'workload_cee088f0-b90a-4147-81b8-ebb9778ce336', u'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:82]
+2017-12-24 15:00:14,705 Trilio-Vault [140559297324864]ERROR __main__ - global name 'dirs' is not defined. [file=trilio_vault.py:169]
+Traceback (most recent call last):
+  File "/root/temp/trilio/trilio/scripts/trilio_vault.py", line 81, in run
+    workloads = self.app.get_workloads()
+  File "/root/temp/trilio/trilio/modules/app.py", line 54, in get_workloads
+    return self.parser_obj.get_workloads()
+  File "/root/temp/trilio/trilio/modules/workload_parser.py", line 39, in get_workloads
+    raise WorkloadException(e)
+WorkloadException: global name 'dirs' is not defined
+2017-12-24 15:09:07,978 Trilio-Vault [140638384498496]INFO  __main__ - available workloads...... [file=trilio_vault.py:87]
+2017-12-24 15:09:07,978 Trilio-Vault [140638384498496]INFO  __main__ - [u'workload_cee088f0-b90a-4147-81b8-ebb9778ce336', u'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:88]
+2017-12-24 15:09:09,970 Trilio-Vault [140638384498496]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:103]
+2017-12-24 15:09:11,378 Trilio-Vault [140638384498496]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:118]
+2017-12-24 15:09:14,274 Trilio-Vault [140638384498496]INFO  __main__ - listing available vms under given snapshot 
+ 6ead0fd4-1a61-4a5e-a57e-216e9c635bc2. [file=trilio_vault.py:146]
+2017-12-24 15:09:15,716 Trilio-Vault [140638384498496]INFO  __main__ - selected vm ubuntu-1. [file=trilio_vault.py:159]
+2017-12-24 15:09:15,734 Trilio-Vault [140638384498496]ERROR __main__ - global name 'e' is not defined. [file=trilio_vault.py:171]
+Traceback (most recent call last):
+  File "/root/temp/trilio/trilio/scripts/trilio_vault.py", line 160, in run
+    self._create_vm(vm_dict)
+  File "/root/temp/trilio/trilio/scripts/trilio_vault.py", line 77, in _create_vm
+    raise ImageConverterException(e)
+NameError: global name 'e' is not defined
+2017-12-24 15:09:28,436 Trilio-Vault [140334136821568]INFO  __main__ - available workloads...... [file=trilio_vault.py:87]
+2017-12-24 15:09:28,437 Trilio-Vault [140334136821568]INFO  __main__ - [u'workload_cee088f0-b90a-4147-81b8-ebb9778ce336', u'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:88]
+2017-12-24 15:09:30,791 Trilio-Vault [140334136821568]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:103]
+2017-12-24 15:09:31,760 Trilio-Vault [140334136821568]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:118]
+2017-12-24 15:09:33,673 Trilio-Vault [140334136821568]INFO  __main__ - listing available vms under given snapshot 
+ 6ead0fd4-1a61-4a5e-a57e-216e9c635bc2. [file=trilio_vault.py:146]
+2017-12-24 15:09:35,981 Trilio-Vault [140334136821568]INFO  __main__ - selected vm ubuntu-1. [file=trilio_vault.py:159]
+2017-12-24 15:09:35,984 Trilio-Vault [140334136821568]ERROR __main__ - integer division or modulo by zero. [file=trilio_vault.py:171]
+Traceback (most recent call last):
+  File "/root/temp/trilio/trilio/scripts/trilio_vault.py", line 160, in run
+    self._create_vm(vm_dict)
+  File "/root/temp/trilio/trilio/scripts/trilio_vault.py", line 77, in _create_vm
+    raise ImageConverterException(err)
+ImageConverterException: integer division or modulo by zero
+2017-12-24 15:11:35,295 Trilio-Vault [139872830150464]INFO  __main__ - available workloads...... [file=trilio_vault.py:87]
+2017-12-24 15:11:35,295 Trilio-Vault [139872830150464]INFO  __main__ - [u'workload_cee088f0-b90a-4147-81b8-ebb9778ce336', u'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:88]
+2017-12-24 15:11:37,865 Trilio-Vault [139872830150464]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:103]
+2017-12-24 15:11:39,451 Trilio-Vault [139872830150464]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:118]
+2017-12-24 15:11:42,973 Trilio-Vault [139872830150464]INFO  __main__ - listing available vms under given snapshot 
+ 6ead0fd4-1a61-4a5e-a57e-216e9c635bc2. [file=trilio_vault.py:146]
+2017-12-24 15:11:44,217 Trilio-Vault [139872830150464]INFO  __main__ - selected vm ubuntu-1. [file=trilio_vault.py:159]
+2017-12-24 15:11:44,220 Trilio-Vault [139872830150464]ERROR __main__ - integer division or modulo by zero. [file=trilio_vault.py:171]
+Traceback (most recent call last):
+  File "/root/temp/trilio/trilio/scripts/trilio_vault.py", line 160, in run
+    self._create_vm(vm_dict)
+  File "/root/temp/trilio/trilio/scripts/trilio_vault.py", line 77, in _create_vm
+    raise ImageConverterException(err)
+ImageConverterException: integer division or modulo by zero
+2017-12-24 15:12:23,675 Trilio-Vault [139807148578624]INFO  __main__ - available workloads...... [file=trilio_vault.py:87]
+2017-12-24 15:12:23,676 Trilio-Vault [139807148578624]INFO  __main__ - [u'workload_cee088f0-b90a-4147-81b8-ebb9778ce336', u'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:88]
+2017-12-24 15:12:25,627 Trilio-Vault [139807148578624]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:103]
+2017-12-24 15:12:26,516 Trilio-Vault [139807148578624]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:118]
+2017-12-24 15:12:28,413 Trilio-Vault [139807148578624]INFO  __main__ - listing available vms under given snapshot 
+ 6ead0fd4-1a61-4a5e-a57e-216e9c635bc2. [file=trilio_vault.py:146]
+2017-12-24 15:12:29,397 Trilio-Vault [139807148578624]INFO  __main__ - selected vm ubuntu-1. [file=trilio_vault.py:159]
+2017-12-24 15:19:03,538 Trilio-Vault [140220900423488]INFO  __main__ - available workloads...... [file=trilio_vault.py:87]
+2017-12-24 15:19:03,538 Trilio-Vault [140220900423488]INFO  __main__ - [u'workload_cee088f0-b90a-4147-81b8-ebb9778ce336', u'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:88]
+2017-12-24 15:19:05,486 Trilio-Vault [140220900423488]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:103]
+2017-12-24 15:19:06,126 Trilio-Vault [140220900423488]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:118]
+2017-12-24 15:19:09,545 Trilio-Vault [140220900423488]INFO  __main__ - listing available vms under given snapshot 
+ 6ead0fd4-1a61-4a5e-a57e-216e9c635bc2. [file=trilio_vault.py:146]
+2017-12-24 15:19:10,293 Trilio-Vault [140220900423488]INFO  __main__ - selected vm ubuntu-1. [file=trilio_vault.py:159]
+2017-12-24 15:27:08,205 Trilio-Vault [140619283003200]INFO  __main__ - available workloads...... [file=trilio_vault.py:90]
+2017-12-24 15:27:08,205 Trilio-Vault [140619283003200]INFO  __main__ - [u'workload_cee088f0-b90a-4147-81b8-ebb9778ce336', u'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:91]
+2017-12-24 15:27:10,593 Trilio-Vault [140619283003200]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:106]
+2017-12-24 15:27:29,983 Trilio-Vault [140336396949312]INFO  __main__ - available workloads...... [file=trilio_vault.py:90]
+2017-12-24 15:27:29,984 Trilio-Vault [140336396949312]INFO  __main__ - [u'workload_cee088f0-b90a-4147-81b8-ebb9778ce336', u'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:91]
+2017-12-24 15:27:31,726 Trilio-Vault [140336396949312]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:106]
+2017-12-24 15:27:33,034 Trilio-Vault [140336396949312]INFO  modules.image_converter - output image: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_6ead0fd4-1a61-4a5e-a57e-216e9c635bc2/vm_id_56e22431-d49c-41d3-8fa9-7846a9ea1e1b/vm_res_id_a23c1073-6182-442f-986b-036410db0bd1_vda/baa89622-f229-4876-9a0a-b71dea070e85
+file format: qcow2
+virtual size: 40G (42949672960 bytes)
+disk size: 196K
+cluster_size: 65536
+backing file: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_fce6f027-9b1a-4df4-9d1e-afe17a84bb33/vm_id_56e22431-d49c-41d3-8fa9-7846a9ea1e1b/vm_res_id_4bcd7b69-afb2-434c-8746-d38141aaffe1_vda/8cdd4cd2-df7d-46c0-98f7-33df1627cae8
+Format specific information:
+    compat: 1.1
+    lazy refcounts: false
+. [file=image_converter.py:86]
+2017-12-24 15:27:33,035 Trilio-Vault [140336396949312]INFO  modules.image_converter - Error..!! . [file=image_converter.py:87]
+2017-12-24 15:27:33,035 Trilio-Vault [140336396949312]INFO  modules.image_converter - raw file already exists, Hence skipping the convertion... [file=image_converter.py:90]
+2017-12-24 15:27:33,035 Trilio-Vault [140336396949312]INFO  modules.image_converter - object copy intialized.... [file=image_converter.py:71]
+2017-12-24 18:17:59,028 Trilio-Vault [140272827819840]INFO  __main__ - available workloads...... [file=trilio_vault.py:90]
+2017-12-24 18:17:59,062 Trilio-Vault [140272827819840]INFO  __main__ - [u'workload_cee088f0-b90a-4147-81b8-ebb9778ce336', u'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:91]
+2017-12-24 18:18:02,844 Trilio-Vault [140272827819840]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:106]
+2017-12-24 18:18:04,009 Trilio-Vault [140272827819840]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:121]
+2017-12-24 18:18:07,204 Trilio-Vault [140272827819840]INFO  __main__ - listing available vms under given snapshot 
+ 6ead0fd4-1a61-4a5e-a57e-216e9c635bc2. [file=trilio_vault.py:149]
+2017-12-24 18:18:08,707 Trilio-Vault [140272827819840]INFO  __main__ - selected vm ubuntu-1. [file=trilio_vault.py:162]
+2017-12-24 18:18:09,939 Trilio-Vault [140272827819840]INFO  modules.image_converter - output image: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_6ead0fd4-1a61-4a5e-a57e-216e9c635bc2/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_1034ba5f-ae8c-44e1-93f8-8cc6f787f4ca_sdb/b84565a9-a79d-4e1d-af9e-00b5e64b8606
+file format: qcow2
+virtual size: 10G (10737418240 bytes)
+disk size: 196K
+cluster_size: 65536
+backing file: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_fce6f027-9b1a-4df4-9d1e-afe17a84bb33/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_8abfd015-fcda-46ac-891f-a16e5dcd88b5_sdb/9f557e8b-d93c-4646-875b-39ef08feb229
+Format specific information:
+    compat: 1.1
+    lazy refcounts: false
+. [file=image_converter.py:86]
+2017-12-24 18:18:09,939 Trilio-Vault [140272827819840]INFO  modules.image_converter - Error..!! . [file=image_converter.py:87]
+2017-12-24 18:18:09,940 Trilio-Vault [140272827819840]INFO  modules.image_converter - raw file already exists, Hence skipping the convertion... [file=image_converter.py:90]
+2017-12-24 18:18:09,940 Trilio-Vault [140272827819840]INFO  modules.image_converter - snap shot intilization started.... [file=image_converter.py:36]
+2017-12-24 18:18:18,877 Trilio-Vault [140272827819840]INFO  modules.image_converter - Imported Task Id is: import-snap-fg4ee7kf. [file=image_converter.py:45]
+2017-12-24 18:18:50,730 Trilio-Vault [140272827819840]INFO  modules.image_converter - Snapshot creation is inprogress .. [file=image_converter.py:64]
+2017-12-24 18:20:12,482 Trilio-Vault [140027673175872]INFO  __main__ - available workloads...... [file=trilio_vault.py:90]
+2017-12-24 18:20:12,483 Trilio-Vault [140027673175872]INFO  __main__ - [u'workload_cee088f0-b90a-4147-81b8-ebb9778ce336', u'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:91]
+2017-12-24 18:20:13,980 Trilio-Vault [140027673175872]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:106]
+2017-12-24 18:20:14,903 Trilio-Vault [140027673175872]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:121]
+2017-12-24 18:20:18,305 Trilio-Vault [140027673175872]INFO  __main__ - listing available vms under given snapshot 
+ 6ead0fd4-1a61-4a5e-a57e-216e9c635bc2. [file=trilio_vault.py:149]
+2017-12-24 18:20:19,495 Trilio-Vault [140027673175872]INFO  __main__ - selected vm ubuntu-1. [file=trilio_vault.py:162]
+2017-12-24 18:20:19,519 Trilio-Vault [140027673175872]INFO  modules.image_converter - output image: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_6ead0fd4-1a61-4a5e-a57e-216e9c635bc2/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_1034ba5f-ae8c-44e1-93f8-8cc6f787f4ca_sdb/b84565a9-a79d-4e1d-af9e-00b5e64b8606
+file format: qcow2
+virtual size: 10G (10737418240 bytes)
+disk size: 196K
+cluster_size: 65536
+backing file: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_fce6f027-9b1a-4df4-9d1e-afe17a84bb33/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_8abfd015-fcda-46ac-891f-a16e5dcd88b5_sdb/9f557e8b-d93c-4646-875b-39ef08feb229
+Format specific information:
+    compat: 1.1
+    lazy refcounts: false
+. [file=image_converter.py:86]
+2017-12-24 18:20:19,520 Trilio-Vault [140027673175872]INFO  modules.image_converter - Error..!! . [file=image_converter.py:87]
+2017-12-24 18:20:19,520 Trilio-Vault [140027673175872]INFO  modules.image_converter - raw file already exists, Hence skipping the convertion... [file=image_converter.py:90]
+2017-12-24 18:20:19,538 Trilio-Vault [140027673175872]INFO  botocore.vendored.requests.packages.urllib3.connectionpool - Starting new HTTPS connection (1): ec2.us-west-2.amazonaws.com. [file=connectionpool.py:735]
+2017-12-24 18:20:21,597 Trilio-Vault [140027673175872]INFO  modules.boto_adapter - AMI created successfully....!!!. [file=boto_adapter.py:42]
+2017-12-24 18:20:21,598 Trilio-Vault [140027673175872]INFO  modules.boto_adapter - AMI ID ***ami-eb1fb393***. [file=boto_adapter.py:43]
+2017-12-24 18:28:27,624 Trilio-Vault [140167400732480]INFO  __main__ - available workloads...... [file=trilio_vault.py:90]
+2017-12-24 18:28:27,625 Trilio-Vault [140167400732480]INFO  __main__ - [u'workload_cee088f0-b90a-4147-81b8-ebb9778ce336', u'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:91]
+2017-12-24 18:28:30,134 Trilio-Vault [140167400732480]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:106]
+2017-12-24 18:28:31,469 Trilio-Vault [140167400732480]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:121]
+2017-12-24 18:28:34,161 Trilio-Vault [140167400732480]INFO  __main__ - listing available vms under given snapshot 
+ 6ead0fd4-1a61-4a5e-a57e-216e9c635bc2. [file=trilio_vault.py:149]
+2017-12-24 18:28:39,182 Trilio-Vault [140167400732480]INFO  __main__ - selected vm ubuntu-1. [file=trilio_vault.py:162]
+2017-12-24 18:28:39,215 Trilio-Vault [140167400732480]INFO  modules.image_converter - output image: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_6ead0fd4-1a61-4a5e-a57e-216e9c635bc2/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_1034ba5f-ae8c-44e1-93f8-8cc6f787f4ca_sdb/b84565a9-a79d-4e1d-af9e-00b5e64b8606
+file format: qcow2
+virtual size: 10G (10737418240 bytes)
+disk size: 196K
+cluster_size: 65536
+backing file: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_fce6f027-9b1a-4df4-9d1e-afe17a84bb33/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_8abfd015-fcda-46ac-891f-a16e5dcd88b5_sdb/9f557e8b-d93c-4646-875b-39ef08feb229
+Format specific information:
+    compat: 1.1
+    lazy refcounts: false
+. [file=image_converter.py:86]
+2017-12-24 18:28:39,215 Trilio-Vault [140167400732480]INFO  modules.image_converter - Error..!! . [file=image_converter.py:87]
+2017-12-24 18:28:39,216 Trilio-Vault [140167400732480]INFO  modules.image_converter - raw file already exists, Hence skipping the convertion... [file=image_converter.py:90]
+2017-12-24 18:28:39,241 Trilio-Vault [140167400732480]INFO  botocore.vendored.requests.packages.urllib3.connectionpool - Starting new HTTPS connection (1): ec2.us-west-2.amazonaws.com. [file=connectionpool.py:735]
+2017-12-24 18:28:41,924 Trilio-Vault [140167400732480]INFO  modules.boto_adapter - AMI created successfully....!!!. [file=boto_adapter.py:42]
+2017-12-24 18:28:41,925 Trilio-Vault [140167400732480]INFO  modules.boto_adapter - AMI ID ***ami-7b15b903***. [file=boto_adapter.py:43]
+2017-12-24 18:28:43,960 Trilio-Vault [140167400732480]INFO  modules.boto_adapter - Internet gateway attached to VPC... [file=boto_adapter.py:130]
+2017-12-24 18:28:45,444 Trilio-Vault [140167400732480]INFO  modules.boto_adapter - VPC created with id : vpc-1aa35a63. [file=boto_adapter.py:121]
+2017-12-24 18:28:46,896 Trilio-Vault [140167400732480]INFO  modules.boto_adapter - security group created with id : sg-c46d18b8. [file=boto_adapter.py:166]
+2017-12-24 18:33:56,164 Trilio-Vault [140041612928832]INFO  __main__ - available workloads...... [file=trilio_vault.py:92]
+2017-12-24 18:33:56,164 Trilio-Vault [140041612928832]INFO  __main__ - [u'workload_cee088f0-b90a-4147-81b8-ebb9778ce336', u'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:93]
+2017-12-24 18:34:00,103 Trilio-Vault [140041612928832]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:108]
+2017-12-24 18:34:01,628 Trilio-Vault [140041612928832]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:123]
+2017-12-24 18:34:07,772 Trilio-Vault [140041612928832]INFO  __main__ - listing available vms under given snapshot 
+ 6ead0fd4-1a61-4a5e-a57e-216e9c635bc2. [file=trilio_vault.py:151]
+2017-12-24 18:34:09,402 Trilio-Vault [140041612928832]INFO  __main__ - selected vm ubuntu-1. [file=trilio_vault.py:164]
+2017-12-24 18:34:09,434 Trilio-Vault [140041612928832]INFO  modules.image_converter - output image: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_6ead0fd4-1a61-4a5e-a57e-216e9c635bc2/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_1034ba5f-ae8c-44e1-93f8-8cc6f787f4ca_sdb/b84565a9-a79d-4e1d-af9e-00b5e64b8606
+file format: qcow2
+virtual size: 10G (10737418240 bytes)
+disk size: 196K
+cluster_size: 65536
+backing file: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_fce6f027-9b1a-4df4-9d1e-afe17a84bb33/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_8abfd015-fcda-46ac-891f-a16e5dcd88b5_sdb/9f557e8b-d93c-4646-875b-39ef08feb229
+Format specific information:
+    compat: 1.1
+    lazy refcounts: false
+. [file=image_converter.py:86]
+2017-12-24 18:34:09,435 Trilio-Vault [140041612928832]INFO  modules.image_converter - Error..!! . [file=image_converter.py:87]
+2017-12-24 18:34:09,435 Trilio-Vault [140041612928832]INFO  modules.image_converter - raw file already exists, Hence skipping the convertion... [file=image_converter.py:90]
+2017-12-24 18:34:09,456 Trilio-Vault [140041612928832]INFO  botocore.vendored.requests.packages.urllib3.connectionpool - Starting new HTTPS connection (1): ec2.us-west-2.amazonaws.com. [file=connectionpool.py:735]
+2017-12-24 18:34:11,358 Trilio-Vault [140041612928832]INFO  modules.boto_adapter - AMI created successfully....!!!. [file=boto_adapter.py:42]
+2017-12-24 18:34:11,358 Trilio-Vault [140041612928832]INFO  modules.boto_adapter - AMI ID ***ami-4218b43a***. [file=boto_adapter.py:43]
+2017-12-24 18:34:13,887 Trilio-Vault [140041612928832]INFO  modules.boto_adapter - Internet gateway attached to VPC... [file=boto_adapter.py:130]
+2017-12-24 18:34:17,891 Trilio-Vault [140041612928832]INFO  modules.boto_adapter - VPC created with id : vpc-c9a059b0. [file=boto_adapter.py:121]
+2017-12-24 18:34:19,377 Trilio-Vault [140041612928832]INFO  modules.boto_adapter - security group created with id : sg-0c6f1a70. [file=boto_adapter.py:166]
+2017-12-24 18:40:27,043 Trilio-Vault [139724076209984]INFO  __main__ - available workloads...... [file=trilio_vault.py:92]
+2017-12-24 18:40:27,044 Trilio-Vault [139724076209984]INFO  __main__ - [u'workload_cee088f0-b90a-4147-81b8-ebb9778ce336', u'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:93]
+2017-12-24 18:40:29,132 Trilio-Vault [139724076209984]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:108]
+2017-12-24 18:40:30,178 Trilio-Vault [139724076209984]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:123]
+2017-12-24 18:40:32,792 Trilio-Vault [139724076209984]INFO  __main__ - listing available vms under given snapshot 
+ 6ead0fd4-1a61-4a5e-a57e-216e9c635bc2. [file=trilio_vault.py:151]
+2017-12-24 18:40:34,335 Trilio-Vault [139724076209984]INFO  __main__ - selected vm ubuntu-1. [file=trilio_vault.py:164]
+2017-12-24 18:40:34,364 Trilio-Vault [139724076209984]INFO  modules.image_converter - output image: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_6ead0fd4-1a61-4a5e-a57e-216e9c635bc2/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_1034ba5f-ae8c-44e1-93f8-8cc6f787f4ca_sdb/b84565a9-a79d-4e1d-af9e-00b5e64b8606
+file format: qcow2
+virtual size: 10G (10737418240 bytes)
+disk size: 196K
+cluster_size: 65536
+backing file: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_fce6f027-9b1a-4df4-9d1e-afe17a84bb33/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_8abfd015-fcda-46ac-891f-a16e5dcd88b5_sdb/9f557e8b-d93c-4646-875b-39ef08feb229
+Format specific information:
+    compat: 1.1
+    lazy refcounts: false
+. [file=image_converter.py:86]
+2017-12-24 18:40:34,364 Trilio-Vault [139724076209984]INFO  modules.image_converter - Error..!! . [file=image_converter.py:87]
+2017-12-24 18:40:34,364 Trilio-Vault [139724076209984]INFO  modules.image_converter - raw file already exists, Hence skipping the convertion... [file=image_converter.py:90]
+2017-12-24 18:40:34,383 Trilio-Vault [139724076209984]INFO  botocore.vendored.requests.packages.urllib3.connectionpool - Starting new HTTPS connection (1): ec2.us-west-2.amazonaws.com. [file=connectionpool.py:735]
+2017-12-24 18:40:35,936 Trilio-Vault [139724076209984]INFO  modules.boto_adapter - AMI created successfully....!!!. [file=boto_adapter.py:42]
+2017-12-24 18:40:35,936 Trilio-Vault [139724076209984]INFO  modules.boto_adapter - AMI ID ***ami-4618b43e***. [file=boto_adapter.py:43]
+2017-12-24 18:40:37,923 Trilio-Vault [139724076209984]INFO  modules.boto_adapter - Internet gateway attached to VPC... [file=boto_adapter.py:130]
+2017-12-24 18:40:39,657 Trilio-Vault [139724076209984]INFO  modules.boto_adapter - VPC created with id : vpc-e3a25b9a. [file=boto_adapter.py:121]
+2017-12-24 18:40:40,624 Trilio-Vault [139724076209984]INFO  modules.boto_adapter - security group created with id : sg-c36a1fbf. [file=boto_adapter.py:166]
+2017-12-24 18:40:42,222 Trilio-Vault [139724076209984]INFO  __main__ - Instance launched sucessfully with ID ***i-0f1e76727f0754296***. [file=trilio_vault.py:82]
+2017-12-26 12:02:52,515 Trilio-Vault [139742735828800]INFO  __main__ - available workloads...... [file=trilio_vault.py:92]
+2017-12-26 12:02:52,535 Trilio-Vault [139742735828800]INFO  __main__ - [u'workload_cee088f0-b90a-4147-81b8-ebb9778ce336', u'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:93]
+2017-12-26 12:02:54,255 Trilio-Vault [139742735828800]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:108]
+2017-12-26 12:02:54,786 Trilio-Vault [139742735828800]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:123]
+2017-12-26 12:02:57,546 Trilio-Vault [139742735828800]INFO  __main__ - listing available vms under given snapshot 
+ 6ead0fd4-1a61-4a5e-a57e-216e9c635bc2. [file=trilio_vault.py:151]
+2017-12-26 12:44:11,423 Trilio-Vault [139758800951104]INFO  __main__ - available workloads...... [file=trilio_vault.py:92]
+2017-12-26 12:44:11,423 Trilio-Vault [139758800951104]INFO  __main__ - [u'workload_cee088f0-b90a-4147-81b8-ebb9778ce336', u'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:93]
+2017-12-26 12:44:13,509 Trilio-Vault [139758800951104]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:108]
+2017-12-26 12:44:14,791 Trilio-Vault [139758800951104]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:123]
+2017-12-26 12:44:16,842 Trilio-Vault [139758800951104]INFO  __main__ - listing available vms under given snapshot 
+ 6ead0fd4-1a61-4a5e-a57e-216e9c635bc2. [file=trilio_vault.py:151]
+2017-12-26 12:44:17,848 Trilio-Vault [139758800951104]INFO  __main__ - selected vm ubuntu-1. [file=trilio_vault.py:164]
+2017-12-26 12:44:17,953 Trilio-Vault [139758800951104]INFO  modules.image_converter - output image: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_6ead0fd4-1a61-4a5e-a57e-216e9c635bc2/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_1034ba5f-ae8c-44e1-93f8-8cc6f787f4ca_sdb/b84565a9-a79d-4e1d-af9e-00b5e64b8606
+file format: qcow2
+virtual size: 10G (10737418240 bytes)
+disk size: 196K
+cluster_size: 65536
+backing file: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_fce6f027-9b1a-4df4-9d1e-afe17a84bb33/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_8abfd015-fcda-46ac-891f-a16e5dcd88b5_sdb/9f557e8b-d93c-4646-875b-39ef08feb229
+Format specific information:
+    compat: 1.1
+    lazy refcounts: false
+. [file=image_converter.py:88]
+2017-12-26 12:44:17,954 Trilio-Vault [139758800951104]INFO  modules.image_converter - Error..!! . [file=image_converter.py:89]
+2017-12-26 12:44:17,955 Trilio-Vault [139758800951104]INFO  modules.image_converter - raw file already exists, Hence skipping the convertion... [file=image_converter.py:92]
+2017-12-26 12:44:17,998 Trilio-Vault [139758800951104]INFO  modules.image_converter - output image: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_6ead0fd4-1a61-4a5e-a57e-216e9c635bc2/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_d063ce58-d4e6-4b50-b50a-bbf25884dd2f_sda/2aaeecc4-ebbd-4602-bf9a-91dbfb1b46ba
+file format: qcow2
+virtual size: 40G (42949672960 bytes)
+disk size: 832K
+cluster_size: 65536
+backing file: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_fce6f027-9b1a-4df4-9d1e-afe17a84bb33/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_176d1186-ee5c-4246-86b2-5aa65a2a39d7_sda/a4301682-2d58-4bb1-81f8-6562bb25b0ac
+Format specific information:
+    compat: 1.1
+    lazy refcounts: false
+. [file=image_converter.py:88]
+2017-12-26 12:44:17,999 Trilio-Vault [139758800951104]INFO  modules.image_converter - Error..!! . [file=image_converter.py:89]
+2017-12-26 12:44:17,999 Trilio-Vault [139758800951104]INFO  modules.image_converter - raw file already exists, Hence skipping the convertion... [file=image_converter.py:92]
+2017-12-26 12:44:18,000 Trilio-Vault [139758800951104]INFO  modules.image_converter - snap shot intilization started.... [file=image_converter.py:37]
+2017-12-26 13:06:56,256 Trilio-Vault [140217559770944]INFO  __main__ - available workloads...... [file=trilio_vault.py:97]
+2017-12-26 13:06:56,256 Trilio-Vault [140217559770944]INFO  __main__ - [u'workload_cee088f0-b90a-4147-81b8-ebb9778ce336', u'workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1']. [file=trilio_vault.py:98]
+2017-12-26 13:06:58,003 Trilio-Vault [140217559770944]INFO  __main__ - Selected workload is..3vms. [file=trilio_vault.py:113]
+2017-12-26 13:06:59,432 Trilio-Vault [140217559770944]INFO  __main__ - listing available snapshots under given workload workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1. [file=trilio_vault.py:128]
+2017-12-26 13:07:02,050 Trilio-Vault [140217559770944]INFO  __main__ - listing available vms under given snapshot 
+ 6ead0fd4-1a61-4a5e-a57e-216e9c635bc2. [file=trilio_vault.py:156]
+2017-12-26 13:07:04,054 Trilio-Vault [140217559770944]INFO  __main__ - selected vm ubuntu-1. [file=trilio_vault.py:169]
+2017-12-26 13:07:04,086 Trilio-Vault [140217559770944]INFO  modules.image_converter - output image: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_6ead0fd4-1a61-4a5e-a57e-216e9c635bc2/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_1034ba5f-ae8c-44e1-93f8-8cc6f787f4ca_sdb/b84565a9-a79d-4e1d-af9e-00b5e64b8606
+file format: qcow2
+virtual size: 10G (10737418240 bytes)
+disk size: 196K
+cluster_size: 65536
+backing file: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_fce6f027-9b1a-4df4-9d1e-afe17a84bb33/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_8abfd015-fcda-46ac-891f-a16e5dcd88b5_sdb/9f557e8b-d93c-4646-875b-39ef08feb229
+Format specific information:
+    compat: 1.1
+    lazy refcounts: false
+. [file=image_converter.py:90]
+2017-12-26 13:07:04,087 Trilio-Vault [140217559770944]INFO  modules.image_converter - Error..!! . [file=image_converter.py:91]
+2017-12-26 13:07:04,088 Trilio-Vault [140217559770944]INFO  modules.image_converter - raw file already exists, Hence skipping the convertion... [file=image_converter.py:94]
+2017-12-26 13:07:04,120 Trilio-Vault [140217559770944]INFO  modules.image_converter - output image: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_6ead0fd4-1a61-4a5e-a57e-216e9c635bc2/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_d063ce58-d4e6-4b50-b50a-bbf25884dd2f_sda/2aaeecc4-ebbd-4602-bf9a-91dbfb1b46ba
+file format: qcow2
+virtual size: 40G (42949672960 bytes)
+disk size: 832K
+cluster_size: 65536
+backing file: /var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=/workload_52395c9b-e7a9-4e0c-a4a2-4578d105bff1/snapshot_fce6f027-9b1a-4df4-9d1e-afe17a84bb33/vm_id_2fdb35e7-8a40-4f2c-b253-de2af71da55a/vm_res_id_176d1186-ee5c-4246-86b2-5aa65a2a39d7_sda/a4301682-2d58-4bb1-81f8-6562bb25b0ac
+Format specific information:
+    compat: 1.1
+    lazy refcounts: false
+. [file=image_converter.py:90]
+2017-12-26 13:07:04,121 Trilio-Vault [140217559770944]INFO  modules.image_converter - Error..!! . [file=image_converter.py:91]
+2017-12-26 13:07:04,121 Trilio-Vault [140217559770944]INFO  modules.image_converter - raw file already exists, Hence skipping the convertion... [file=image_converter.py:94]
+2017-12-26 13:07:04,122 Trilio-Vault [140217559770944]INFO  modules.image_converter - object copy intialized.... [file=image_converter.py:75]

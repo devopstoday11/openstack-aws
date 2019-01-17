@@ -1,0 +1,9 @@
+{
+    "bucket_name":"chaitusample",
+    "region":"us-west-2",
+    "trilio_base_dir":"/var/triliovault-mounts/MTkyLjE2OC4xLjExNDovaG9tZS9jZW50b3MvbmZzc2hhcmU=",
+    "app_name":"Trilio-Vault",
+    "log_level":"INFO",
+    "container_json_path":"/tmp/container.json",
+    "key_pair":"Satish-Keypair"
+}
